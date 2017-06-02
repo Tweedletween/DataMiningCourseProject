@@ -3,7 +3,7 @@ import java.util.*;
 import java.nio.file.Paths;
 
 public class P1 {
-    public static final String FILE_PATH = "/home/mwang2/test/coen281/";
+    public static final String FILE_PATH = "/a_path";
     public static final int SHINGLE_SIZE = 9;
     // Constant Locality-Simalarity Family(d1, d2, p1, p2)
     public static final double D2 = 0.8;
